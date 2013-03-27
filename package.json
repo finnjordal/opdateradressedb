@@ -1,0 +1,9 @@
+{
+    "name": "opdateradresser"
+  , "version": "0.0.1"
+  , "private": true
+  , "dependencies": {
+    "mongodb": ">=1.2.14"
+    ,"node-uuid" : ">=1.4.0"
+  }
+}
